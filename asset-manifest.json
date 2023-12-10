@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Emp_Managment/static/css/main.f96f07a4.css",
+    "main.js": "/Emp_Managment/static/js/main.eb75f11f.js",
+    "static/js/787.792a50db.chunk.js": "/Emp_Managment/static/js/787.792a50db.chunk.js",
+    "index.html": "/Emp_Managment/index.html",
+    "main.f96f07a4.css.map": "/Emp_Managment/static/css/main.f96f07a4.css.map",
+    "main.eb75f11f.js.map": "/Emp_Managment/static/js/main.eb75f11f.js.map",
+    "787.792a50db.chunk.js.map": "/Emp_Managment/static/js/787.792a50db.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f96f07a4.css",
+    "static/js/main.eb75f11f.js"
+  ]
+}
